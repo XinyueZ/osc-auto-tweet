@@ -2,4 +2,4 @@ cron:
 - description: Post tweet to oschina.net, tweet content is first element of Hack-News.
   url: /tweet
   #live:
-  schedule: every 30 minutes from 0:00 to 23:59 
+  schedule: every 45 minutes from 0:00 to 23:59 
